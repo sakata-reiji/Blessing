@@ -1,5 +1,5 @@
 ---
-description: 文档版本 - Alpha 10
+description: 文档版本 - Alpha 10 - 稳定态通道 - GitHub不可编辑
 ---
 
 # 主页
