@@ -15,5 +15,6 @@
 * [1 安装准备](di-yi-jie-an-zhuang-yuan-ban-microsoft-windows-cao-zuo-xi-tong/1-an-zhuang-zhun-bei.md)
 * [2 制作PE（预安装环境）启动设备](di-yi-jie-an-zhuang-yuan-ban-microsoft-windows-cao-zuo-xi-tong/2-zhi-zuo-pe-yu-an-zhuang-huan-jing-qi-dong-she-bei.md)
 * [3 准备系统镜像和驱动](di-yi-jie-an-zhuang-yuan-ban-microsoft-windows-cao-zuo-xi-tong/3-zhun-bei-xi-tong-jing-xiang-he-qu-dong.md)
-* [4 开始进行安装过程](di-yi-jie-an-zhuang-yuan-ban-microsoft-windows-cao-zuo-xi-tong/4-kai-shi-jin-hang-an-zhuang-guo-cheng.md)
+* [4 安装前最后检查](di-yi-jie-an-zhuang-yuan-ban-microsoft-windows-cao-zuo-xi-tong/4-kai-shi-jin-hang-an-zhuang-guo-cheng.md)
+* [5 开始安装操作系统](di-yi-jie-an-zhuang-yuan-ban-microsoft-windows-cao-zuo-xi-tong/5-kai-shi-an-zhuang-cao-zuo-xi-tong.md)
 

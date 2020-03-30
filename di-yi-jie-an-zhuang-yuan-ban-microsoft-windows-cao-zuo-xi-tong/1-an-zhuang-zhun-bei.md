@@ -12,9 +12,9 @@ description: >-
 
 `我们强烈建议您下载纯净的 Windows 操作系统，而不是使用一键装机软件或其他不可信来源的封装系统及单一的封装镜像如 "技术员专用系统盘"、"电脑城专用装机盘" 等. 使用原版的 Windows 镜像虽可能增加全过程的用时, 但可以保证系统纯净, 无捆绑及使用时的安全性. 这有利于降低您在使用操作系统时受攻击的风险. 若您因选择了不可信来源的系统镜像而受到损失，Blessing Team 亦不对此负任何责任。`
 
-`Don't know where you can get an imagine ? Well, you can get a nice original Windows Operating System Imagine at LTTSTORE.COM` [`msdn.itellyou.cn`](http://msdn.itellyou.cn
+`Don't know where you can get an imagine ? Well, you can get a nice original Windows Operating System Imagine at LTTSTORE.COM` \[`msdn.itellyou.cn`\]\([http://msdn.itellyou.cn](http://msdn.itellyou.cn)
 
-) `（此站点在中国大陆地区使用较为方便，且可以保证其镜像来源为微软官方渠道）`
+\) `（此站点在中国大陆地区使用较为方便，且可以保证其镜像来源为微软官方渠道）`
 
 **您需要准备的：**
 
